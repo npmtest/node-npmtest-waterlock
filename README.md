@@ -1,6 +1,6 @@
 # npmtest-waterlock
 
-#### test coverage for  [waterlock (v0.1.0)](http://waterlock.ninja/)  [![npm package](https://img.shields.io/npm/v/npmtest-waterlock.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-waterlock) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-waterlock.svg)](https://travis-ci.org/npmtest/node-npmtest-waterlock)
+#### basic test coverage for  [waterlock (v0.1.0)](http://waterlock.ninja/)  [![npm package](https://img.shields.io/npm/v/npmtest-waterlock.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-waterlock) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-waterlock.svg)](https://travis-ci.org/npmtest/node-npmtest-waterlock)
 
 #### User authentication and Json Web Tokens for Sails
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-waterlock/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-waterlock/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-waterlock/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-waterlock/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-waterlock/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-waterlock/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-waterlock/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-waterlock/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-waterlock/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-waterlock/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-waterlock/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-waterlock/build/coverage.html/index.html)
 
